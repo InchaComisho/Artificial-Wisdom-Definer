@@ -273,15 +273,15 @@ The following resources connect AW / AGI / ASI research with optical quantum com
 
 ## License
 
-CC BY-SA 4.0  
-Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0  
+Creative Commons Attribution 4.0 International
 
 Recommended attribution:
 
 ```text
 Master (inchacomusho / InchaComisho),
 “Artificial Wisdom Definer — International Public Profile,”
-CC BY-SA 4.0.
+CC BY 4.0.
 ```
 
 ---
